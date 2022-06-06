@@ -127,7 +127,7 @@ Modify the block below if there are any special requirements.
     In order to code along (optional, but recommended), participants have two options. Please decide which option you want to use and install any necessary software before the workshop begins.
     <ol>
       <li>Use <a href="https://colab.research.google.com/">Google Colab</a> online. Colab requires that you have a Google account in order to use it.</li>
-      <li>Install software on your own computer. The simplest way to get almost everything you need is to install the open-source <a href="https://www.anaconda.com/products/distribution">Anaconda distribution.>/a> Full instructions are below.</li>
+      <li>Install software on your own computer. The simplest way to get almost everything you need is to install the open-source <a href="https://www.anaconda.com/products/distribution">Anaconda distribution.</a> Full instructions are below.</li>
     </ol>
 </p>
 
