@@ -40,17 +40,16 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/intro.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/intro.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/intro.html %}
-{% endif %}
+Want to learn how to use Python in metadata and other technical services work, but not sure where to start? In this workshop, we will explore several real-world applications of Python for working with library data, including modifying MARC records and wrangling spreadsheets. We'll focus on practical, basic concepts and techniques to provide a solid foundation for further exploration on your own. We'll cover:
+<ul>
+  <li>How to get started</li>
+  <li>File input and output</li>
+  <li>Working with spreadsheets and CSV files</li>
+  <li>Using pymarc to work with MARC records</li>
+  <li>Resources for learning more on your own</li>
+ </ul>
+The instructor will share several example scripts from her own work for participants to use as references and templates for their own Python experiments. Participants will be encouraged to code along during the workshop, but no previous coding experience is required.
 
-{% if site.pilot %}
-This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
-{% endif %}
 
 {% comment %}
 AUDIENCE
