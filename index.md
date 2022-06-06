@@ -260,10 +260,10 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 <h3>Install Anaconda and Pymarc (optional)</h3>
-<p>If you are choose to code along through your own installation of Python and associated tools, follow these instructions:
+<p>If you choose to code along through your own installation of Python and associated tools, follow these instructions:
  <ol>
    <li>Dowload and install <a href="https://www.anaconda.com/products/distribution">Anaconda distribution.</a></li>
-   <li>On your computer, open Anaconda Prompt.</li>
+   <li>On your computer, open <strong>Anaconda Prompt.</strong></li>
    <li>On the command line, type <strong>pip install pymarc</strong></li>
   </ol>
 {% if site.carpentry == "swc" %}
