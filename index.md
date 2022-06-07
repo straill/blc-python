@@ -262,8 +262,7 @@ of code below the Schedule `<h2>` header below with
         <li>Day 2 files and code notebook (Coming Soon!)</li>
         </ul>
         
- <hr/>
-
+<hr/>
 {% comment %}
 SETUP
 
