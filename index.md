@@ -256,13 +256,14 @@ of code below the Schedule `<h2>` header below with
 
 <h2>Workshop Materials</h2>
 
-  <p>Course materials that you may want to refer to or download:</p>
-    <ul>
-      <li>Slide Deck (Coming Soon!)</li>
-      <li>Resource List (Coming Soon!)</li>
-      <li>Day 1 files and code notebook (Coming Soon!)</li>
-      <li>Day 2 files and code notebook (Coming Soon!)</li>
-    </ul>
+  <p>Course materials that you may want to refer to or download:
+  
+  <ul>
+    <li>Slide Deck (Coming Soon!)</li>
+    <li>Resource List (Coming Soon!)</li>
+    <li>Day 1 files and code notebook (Coming Soon!)</li>
+    <li>Day 2 files and code notebook (Coming Soon!)</li>
+  </ul>
   </p>
         
 <hr/>
@@ -276,7 +277,6 @@ and end easier to find.
 This is the other place where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
-x
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
@@ -296,27 +296,7 @@ during the workshop.
 {% endcomment %}
                        
 <h3>Install Anaconda and Pymarc (optional)</h3>
-<p>
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       
-                       you choose to code along through your own installation of Python and associated tools, follow these instructions:
+<p>If you choose to code along through your own installation of Python and associated tools, follow these instructions:
  <ol>
    <li>Dowload and install <a href="https://www.anaconda.com/products/distribution">Anaconda distribution.</a></li>
    <li>If you are using Windows: open <strong>Anaconda Prompt.</strong></li>
