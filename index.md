@@ -178,8 +178,6 @@ available at https://codimd.carpentries.org
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
-<hr/>
-{% endif %}
 
 <hr/>
 
@@ -265,6 +263,16 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <hr/>
 
+<h2 id="materials>Workshop Materials</h2>
+        <p>Course materials that you may want to refer to or download:</p>
+        <ul>
+        <li>Slide Deck (Coming Soon!)</li>
+        <li>Resource List (Coming Soon!)</li>
+        <li>Day 1 files and code notebook (Coming Soon!)</li>
+        <li>Day 2 files and code notebook (Coming Soon!)</li>
+        </ul>
+        
+ <hr/>
 
 {% comment %}
 SETUP
@@ -301,6 +309,7 @@ during the workshop.
    <li>If you are using Macintosh: open <strong>Terminal.</strong></li>
    <li>On the command line, type <strong>pip install pymarc</strong></li>
   </ol>
+  </p>
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
