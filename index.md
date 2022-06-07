@@ -254,14 +254,16 @@ of code below the Schedule `<h2>` header below with
 
 <hr/>
 
-<h2 id="materials>Workshop Materials</h2>
-        <p>Course materials that you may want to refer to or download:</p>
-        <ul>
-        <li>Slide Deck (Coming Soon!)</li>
-        <li>Resource List (Coming Soon!)</li>
-        <li>Day 1 files and code notebook (Coming Soon!)</li>
-        <li>Day 2 files and code notebook (Coming Soon!)</li>
-        </ul>
+<h2>Workshop Materials</h2>
+
+  <p>Course materials that you may want to refer to or download:</p>
+    <ul>
+      <li>Slide Deck (Coming Soon!)</li>
+      <li>Resource List (Coming Soon!)</li>
+      <li>Day 1 files and code notebook (Coming Soon!)</li>
+      <li>Day 2 files and code notebook (Coming Soon!)</li>
+    </ul>
+  </p>
         
 <hr/>
 {% comment %}
