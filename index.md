@@ -178,6 +178,7 @@ available at https://codimd.carpentries.org
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
+{% endif %}
 
 <hr/>
 
@@ -291,8 +292,29 @@ x
 These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
+                       
 <h3>Install Anaconda and Pymarc (optional)</h3>
-<p>If you choose to code along through your own installation of Python and associated tools, follow these instructions:
+<p>
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       you choose to code along through your own installation of Python and associated tools, follow these instructions:
  <ol>
    <li>Dowload and install <a href="https://www.anaconda.com/products/distribution">Anaconda distribution.</a></li>
    <li>If you are using Windows: open <strong>Anaconda Prompt.</strong></li>
