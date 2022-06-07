@@ -100,7 +100,7 @@ address.
 {% elsif online == "true_private" %}
 <p id="where">
   <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  You will be provided with the information you will need to connect to this meeting.
 </p>
 {% endif %}
 
@@ -126,7 +126,7 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong>
     In order to code along (optional, but recommended), participants have two options. Please decide which option you want to use and install any necessary software before the workshop begins.
     <ol>
-      <li>Use <a href="https://colab.research.google.com/">Google Colab</a> online. Colab requires that you have a Google account in order to use it.</li>
+      <li>Use <a href="https://colab.research.google.com/">Google Colab</a> online. Colab works in your browser and doesn't require you to install anything on your computer, but you must have a Google account in order to use it.</li>
       <li>Install software on your own computer. The simplest way to get almost everything you need is to install the open-source <a href="https://www.anaconda.com/products/distribution">Anaconda distribution.</a> Full instructions are below.</li>
     </ol>
 </p>
