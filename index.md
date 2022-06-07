@@ -208,16 +208,50 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
-{% if site.carpentry == "swc" %}
-{% include swc/schedule.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% elsif site.carpentry == "incubator" %}
-This workshop is teaching a lesson in [The Carpentries Incubator](https://carpentries-incubator.org/).
-Please check [the lesson homepage]({{ site.incubator_lesson_site }}) for a list of lesson sections and estimated timings.
-{% endif %}
+<div class="row">        <!-- first two days -->
+  <div class="col-md-6"> <!-- left column -->
+    <h3>Day 1 (June 9)</h3>
+    <table class="table table-striped">
+      <tr>               <!-- row 1   -->
+        <td>1:30 PM</td>        <!-- time    -->
+        <td>Introduction, Background, and Scope</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 2   -->
+        <td>2:00 PM</td>        <!-- time    -->
+        <td>Tools: Options for Setting Up and Running Python</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>2:20 PM</td>        <!-- time    -->
+        <td>Pymarc and Pandas: Library Python essentials</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 4   -->
+        <td>2:30 PM</td>        <!-- time    -->
+        <td>Basic Concepts: Learn by Coding</td>        <!-- content -->
+      </tr>
+    </table>
+  </div>
+  <div class="col-md-6"> <!-- right column -->
+    <h3>Day 2 (June 16)</h3>
+    <table class="table table-striped">
+      <tr>               <!-- row 1   -->
+        <td>1:30 PM</td>        <!-- time    -->
+        <td>Working Examples: Pandas</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 2   -->
+        <td>2:00 PM</td>        <!-- time    -->
+        <td>Working Examples: Pymarc</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>2:30 PM</td>        <!-- time    -->
+        <td>What Next? Resources for Further Learning</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 4   -->
+        <td>2:50 PM</td>        <!-- time    -->
+        <td>Wrap-Up and Conclusion</td>        <!-- content -->
+      </tr>
+    </table>
+  </div>
+</div>
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
