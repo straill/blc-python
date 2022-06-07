@@ -263,7 +263,8 @@ during the workshop.
 <p>If you choose to code along through your own installation of Python and associated tools, follow these instructions:
  <ol>
    <li>Dowload and install <a href="https://www.anaconda.com/products/distribution">Anaconda distribution.</a></li>
-   <li>On your computer, open <strong>Anaconda Prompt.</strong></li>
+   <li>If you are using Windows: open <strong>Anaconda Prompt.</strong></li>
+   <li>If you are using Macintosh: open <strong>Terminal.</strong></li>
    <li>On the command line, type <strong>pip install pymarc</strong></li>
   </ol>
 {% if site.carpentry == "swc" %}
