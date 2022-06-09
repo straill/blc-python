@@ -16,4 +16,4 @@
 
 ## Books, articles, and book chapters
 
-- Yelton, Andromeda (2015). Coding for Librarians: Learning by Example. Library Technology Reports, 51:3. [http://dx.doi.org/10.5860/ltr.51n3](http://dx.doi.org/10.5860/ltr.51n3)
+- Yelton, Andromeda (2015). Coding for librarians: Learning by example. Library Technology Reports, 51:3. [http://dx.doi.org/10.5860/ltr.51n3](http://dx.doi.org/10.5860/ltr.51n3)
