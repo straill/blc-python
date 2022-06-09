@@ -9,4 +9,9 @@
 
 ## Documentation and tools
 
+- **pandas** [https://pandas.pydata.org](https://pandas.pydata.org)
+- **pymarc** [https://pypi.org/project/pymarc/](https://pypi.org/project/pymarc/)
+- **Python home** [https://www.python.org](https://www.python.org)
+- **Anaconda** [https://www.anaconda.com](https://www.anaconda.com)
+
 ## Books, articles, and book chapters
