@@ -2,6 +2,8 @@
 # Values for this workshop.
 #------------------------------------------------------------
 
+markdown: GFM
+
 # More detailed instructions are available at:
 # https://carpentries.github.io/workshop-template/customization/index.html
 
