@@ -1,7 +1,9 @@
 # Resources for Further Learning
 
-## Free websites
+## Websites and code schools
 
-## Paid websites and code schools
+- **The Carpentries** (free) [
+
+## Documentation and tools
 
 ## Books, articles, and book chapters
