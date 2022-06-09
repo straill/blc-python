@@ -259,7 +259,8 @@ of code below the Schedule `<h2>` header below with
   <p>Course materials that you may want to refer to or download:
   
   <ul>
-    <li>Slide Deck (Coming Soon!)</li>
+    <li><a href="https://z.umn.edu/intro-library-python-day1"Day 1 Slide Deck</a></li>
+    <li>Day 2 Slide Deck(Coming Soon!)</li>
     <li>Resource List (Coming Soon!)</li>
     <li>Day 1 files and code notebook (Coming Soon!)</li>
     <li>Day 2 files and code notebook (Coming Soon!)</li>
