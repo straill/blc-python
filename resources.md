@@ -31,7 +31,7 @@
 - **Hacking in Python with PyMarc**, Lauren Magnuson [https://acrl.ala.org/techconnect/post/hacking-in-python-with-pymarc/](https://acrl.ala.org/techconnect/post/hacking-in-python-with-pymarc/)
 - **Do Library Stuff Faster with Python**, Lauren Magnuson [https://acrl.ala.org/techconnect/post/do-library-stuff-faster-with-python/](https://acrl.ala.org/techconnect/post/do-library-stuff-faster-with-python/)
 - **One Weird Query: Resolving LC Subject Strings to URIs Using Python**, Ruth Kitchin Tillman [https://ruthtillman.com/post/matching-lc-entities-using-headers/](https://ruthtillman.com/post/matching-lc-entities-using-headers/)
-- **Leveraging Python to Improve Ebook Metadata Selection, Ingest, and Management**, Kelly Thompson and Stacie Traill [https://journal.code4lib.org/articles/12828] (https://journal.code4lib.org/articles/12828)
+- **Leveraging Python to Improve Ebook Metadata Selection, Ingest, and Management**, Kelly Thompson and Stacie Traill [https://journal.code4lib.org/articles/12828](https://journal.code4lib.org/articles/12828)
 - **Leveraging a Custom Python Script to Scrape Subject Headings for Journals**, Shelly R. McDavid, Eric McDavid, and Neil E. Das [https://journal.code4lib.org/articles/16080](https://journal.code4lib.org/articles/16080)
 - **Leveraging the RBMS/BSC Latin Place Names File with Python**, kalan knudson davis [https://journal.code4lib.org/articles/15143](https://journal.code4lib.org/articles/15143)
 - **Alma Enumerator: Automating Repetitive Cataloging Tasks with Python**, Wesley Teal [https://journal.code4lib.org/articles/13947](https://journal.code4lib.org/articles/13947)
