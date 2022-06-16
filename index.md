@@ -260,7 +260,7 @@ of code below the Schedule `<h2>` header below with
   
   <ul>
     <li><a href="https://z.umn.edu/intro-library-python-day1">Day 1 Slide Deck</a></li>
-    <li>Day 2 Slide Deck(Coming soon)</li>
+    <li><a href="https://z.umn.edu/intro-library-python-day2">Day 2 Slide Deck</a></li>
     <li><a href="https://github.com/straill/blc-python/blob/gh-pages/resources.md">Resource List</a></li>
     <li><a href="https://drive.google.com/drive/folders/1WqCOBdAJtg03XFpf_ii5kNfMBYZj37Hi?usp=sharing">Sample data files for Day 2</a></li>
   </ul>
