@@ -36,3 +36,13 @@
 - **Leveraging the RBMS/BSC Latin Place Names File with Python**, kalan knudson davis [https://journal.code4lib.org/articles/15143](https://journal.code4lib.org/articles/15143)
 - **Alma Enumerator: Automating Repetitive Cataloging Tasks with Python**, Wesley Teal [https://journal.code4lib.org/articles/13947](https://journal.code4lib.org/articles/13947)
 - **Bridging the Gaps: Python Scripting Around Alma's Edges**, Stacie Traill [https://z.umn.edu/bridging-gaps](https://z.umn.edu/bridging-gaps)
+
+## Code
+
+- **marc-completeness-eval:** https://github.com/UMNLibraries/marc-completeness-eval
+- **marcive-GPO-processing:** https://github.com/UMNLibraries/marcive-GPO-processing
+- **oclc-datasync-reports:** https://github.com/UMNLibraries/oclc-datasync-reports
+- **alma-ebook-isbn-matching:** https://github.com/UMNLibraries/alma-ebook-isbn-matching
+- **holdings-from-isbns:** https://github.com/UMNLibraries/holdings-from-isbns
+- **pcad-serials:** https://github.com/UMNLibraries/pcad-serials
+- **Geospatial Data Curation Toolkit** (by Melinda Kernik): https://github.com/mkernik/geodc
